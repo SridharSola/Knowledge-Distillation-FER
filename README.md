@@ -9,9 +9,8 @@ Knowledge Distillation (KD) aims to achieve mask-invariant feature vectors so th
 ![Screenshot 2022-06-05 223333](https://user-images.githubusercontent.com/64302305/172061773-b8228373-f21d-47a8-b668-c800b2fe3486.jpg)
 
 ## GradCAM
-|![Screenshot 2022-06-05 223443](https://user-images.githubusercontent.com/64302305/172061840-681fa567-64cb-471c-bd1b-a6ed619db53e.jpg|
+|![Screenshot 2022-06-05 223443](https://user-images.githubusercontent.com/64302305/172061929-fabfdf30-f88f-4212-afdb-18ada586ef6c.jpg)|
 |:--:| 
 | *Without KD* |
 |![Screenshot 2022-06-05 223508](https://user-images.githubusercontent.com/64302305/172061887-33746d57-07b3-4521-8f1d-3c41ad080f22.jpg)|
-|:--:| 
 | *With KD* |
